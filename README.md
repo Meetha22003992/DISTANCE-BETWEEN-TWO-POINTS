@@ -1,4 +1,4 @@
-# EX-03: DISTANCE-BETWEEN-TWO-POINTS
+# DISTANCE-BETWEEN-TWO-POINTS
 
 ## AIM:
 To write a python program to find the distance two two points
