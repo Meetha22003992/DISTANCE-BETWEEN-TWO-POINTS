@@ -3,16 +3,11 @@
 ## AIM:
 To write a python program to find the distance two two points
 ## ALGORITHM:
-### Step 1: Import math module 
-
-### Step 2: Create the list from the given points and formula 
-
-### Step 3: ![dis form](https://user-images.githubusercontent.com/119401038/225203877-db4fb208-6353-461d-8ae3-3a46492720f0.png)
-
-### Step 4: Use math.sqrt for the square root and calculate the distance between the given points
-
-### Step 5: Print the calculates distance for 2 decimals
-
+1. Import math module 
+2. Create the list from the given points and formula 
+3. Use the formula d=√((x_2-x_1)²+(y_2-y_1)²) to find the distane between two points 
+4. Use math.sqrt for the square root and calculate the distance between the given points
+5. Print the calculates distance for 2 decimals
 ### PROGRAM:
 ```
 #Program to find the distance between two points. 
